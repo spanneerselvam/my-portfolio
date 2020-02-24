@@ -22,7 +22,7 @@ return(
           </Content>
           <Content>
           <p></p>
-          <p> <b> Day 2: </b> Intro to Airflow and Graph Data Structures </p>
+          <p> <b> Day 2: </b> Intro to Airflow and Graph Data Structures with Stranger Things!</p>
           <center>
           <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5eVNA5Z26Iy-jEZq9J3wHId-VGBXRdYBOxTVH4YMzIIC1xRMSLMS6s9RlPgN6Yw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
           </center>
