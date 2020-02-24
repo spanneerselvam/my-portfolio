@@ -27,7 +27,7 @@ class App extends React.Component {
       home: {
         title: "Be Fearless.",
         subTitle: "Encourage. Empower. Endure.",
-        text: "Data Engineer/Scientist. Solo Traveler. Dog Lover. Human Being. "
+        text: "Data Engineer/Scientist. Writer. Solo Traveler. Dog Lover. Human Being. "
       },
       about: {
         title: "About Me",
