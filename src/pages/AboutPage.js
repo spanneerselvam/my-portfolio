@@ -18,9 +18,10 @@ return(
           I didn't have any web development experience but in those 24 hours, I was able to contribute to something beautiful.
           My love for STEM continued to flourish by working at a healthcare company with a mission that I'm incredibly passionate about straight out of graduation.
           It was here that I stumbled into the field of data science and engineering. </p>
-          <p>I try to live everyday with a growth mindset: taking everything that life throws my way as a learning opportunity which has helped me be more resilient and positive. I want to help empower other women to purse careers in STEM so that they don't face the sexism and challenges I and so many others endure. Because of my experiences, I mentor high school girls in coding and encourage them to pursue their
+          <p>I try to live everyday with a growth mindset: taking everything that life throws my way as a learning opportunity which has helped me be more resilient and positive. I want to help empower other women to purse careers in STEM so that they don't face the sexism and challenges I
+          and so many others endure. Because of my experiences, I mentor high school girls in coding and encourage them to pursue their
           dreams even when it can be scary.
-          I hope to use this platform to share I've learned and inspire others to Encourage, Empower and Endure. In my free time, I love to hang out with my family and friends, go on adventures with my dog named Merlin (he's a Border Collie-Lab mix we adopted), work out, solo travel, write (currently working on a secret project!), and volunteer. You can take a look at my projects
+          I hope to use this platform to share what I've learned and inspire others to Encourage, Empower and Endure. In my free time, I love to hang out with my family and friends, go on adventures with my dog named Merlin (he's a Border Collie-Lab mix we adopted), work out, solo travel, write (currently working on a secret project!), and volunteer. You can take a look at my projects
           just like this website down below on my GitHub or connect with me through LinkedIn. I'm excited to continue to learn and hear from all of you :)  </p>
           </Content>
       </div>
