@@ -10,9 +10,7 @@ return(
 
           <Hero title="Airflow" />
           <Content>
-          <p>Airflow, Airbnb's brainchild, is a data orchestration tool that allows you to programmtically schedule jobs in order to extract, transform, or load (ETL) data.
-          I was able to successfully implement Airflow and taught my teammates all the interesting things (including Airflow, Docker, Kubernetes, and MORE) I learned! Here's just a taste of my material :) I had a blast organizing, documenting, and sharing knowledge
-          in a fun and understandable way. Also, my slides just so happen to be super cute ^^ </p>
+          <p>Airflow, Airbnb's brainchild, is a data orchestration tool that allows you to programmatically schedule jobs in order to extract, transform, or load (ETL) data. Since Airflow's workflows are written in Python as DAGs (Directed Acyclic Graphs) they allow for complex computation, scalability, and maintainability unlike cron jobs or other scheduling tools. Learning and implementing Airflow was an incredibly arduous journey since Airflow is relatively new. I had to figure out how deploy Airflow on a large scale (with the help of Kubernetes!) and develop an entirely automated system. After several months, I was finally able to successfully implement Airflow and taught my teammates all the interesting things (including Airflow, Docker, Kubernetes, and MORE) I learned! Here's just a taste of the five week course I designed :) I had a blast organizing, documenting, and sharing knowledge in a fun and understandable way. Also, my slides just so happen to be super cute ^^ </p>
           </Content>
           <Content>
           <p> <b> Day 1: </b> Getting Ready with Docker </p>
