@@ -10,7 +10,7 @@ return(
 
           <Hero title="Airflow" />
           <Content>
-          <p>Airflow is a data orchestration tool that allows you to programmtically schedule jobs in order to extract, transform, or load data (ETL).
+          <p>Airflow, Airbnb's brainchild, is a data orchestration tool that allows you to programmtically schedule jobs in order to extract, transform, or load data (ETL).
           I was able to successfully implement Airflow and taught my teammates all the interesting things (including Airflow, Docker, Kubernetes, and MORE) I had learned! Here's just a taste of my material :) I had a lot of fun organizing, documenting, and sharing knowledge
           in a fun and understandable way. Also, my slides are really cute ^^ </p>
           </Content>
