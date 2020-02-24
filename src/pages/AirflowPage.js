@@ -12,7 +12,7 @@ return(
           <Content>
           <p>Airflow, Airbnb's brainchild, is a data orchestration tool that allows you to programmtically schedule jobs in order to extract, transform, or load (ETL) data.
           I was able to successfully implement Airflow and taught my teammates all the interesting things (including Airflow, Docker, Kubernetes, and MORE) I learned! Here's just a taste of my material :) I had a blast organizing, documenting, and sharing knowledge
-          in a fun and understandable way. Also, my slides are really cute ^^ </p>
+          in a fun and understandable way. Also, my slides just so happen to be super cute ^^ </p>
           </Content>
           <Content>
           <p> <b> Day 1: </b> Getting Ready with Docker </p>
