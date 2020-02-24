@@ -12,7 +12,7 @@ return(
           <Content>
           <p></p>
           <p>Hey Beautiful People! </p>
-          <p>My name is Saigopini Panneerselvam, but I go by Sai (pronounced like "sigh"). I grew up in the Bay Area and graduated from Santa Clara University with a double-major in mathematics and computer science. It was hard being one of the only women in most of my classes but regardless,
+          <p>My name is Saigopini Panneerselvam, but I go by Sai (pronounced like "sigh"). I grew up in the Bay Area and graduated from Santa Clara University, double-majoring in mathematics and computer science. It was hard being one of the only women in most of my classes but regardless,
           I kept my head up and discovered my passion for STEM during a hackathon held at my university. My friends and I created a platform that connects homeless shelters to restaurants in order to feed hungry bellies sustainably by cutting down food waste.
           It was then when I realized the instant gratification that comes from computer science and the power of technology to help our fellow human beings.
           I didn't have any web development experience but in those 24 hours, I was able to contribute to something beautiful.
