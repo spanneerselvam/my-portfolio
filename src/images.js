@@ -9,6 +9,7 @@ import oxford from './assets/images/oxford.jpg'
 import london from './assets/images/london.jpg'
 import bay from './assets/images/bay.jpg'
 import merlin from './assets/images/merlin.jpg'
+import monterey from './assets/images/IMG_7845.jpg'
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
@@ -20,6 +21,7 @@ export default [
   nara,
   china,
   greatwall,
+  monterey,
   palace,
   oxford,
   london,
